@@ -395,4 +395,4 @@ MIT — free to use, modify, and distribute.
 
 ## 🙏 Acknowledgements
 
-Built following the production RAG patterns outlined by Aishwarya Srinivasan's AI Engineer project guide. SEC financial data sourced from EDGAR, a service of the U.S. Securities and Exchange Commission.
+SEC financial data sourced from EDGAR, a service of the U.S. Securities and Exchange Commission.
