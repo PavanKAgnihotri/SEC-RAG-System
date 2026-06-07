@@ -392,7 +392,3 @@ Currently indexes one 10-K filing per run. Multi-company and multi-year comparis
 MIT — free to use, modify, and distribute.
 
 ---
-
-## 🙏 Acknowledgements
-
-SEC financial data sourced from EDGAR, a service of the U.S. Securities and Exchange Commission.
