@@ -1,0 +1,13 @@
+qdrant-client
+sentence-transformers
+rank-bm25
+langchain
+langchain-text-splitters
+beautifulsoup4
+python-dotenv
+requests
+groq
+streamlit
+gradio
+numpy
+lxml

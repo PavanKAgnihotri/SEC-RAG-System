@@ -1,0 +1,8 @@
+.env
+data/raw/
+data/qdrant_db/
+data/bm25_index.pkl
+data/observability_log.jsonl
+__pycache__/
+*.pyc
+*.pkl
